@@ -1,0 +1,10 @@
+[package]
+name = "fft"
+version = "0.1.0"
+authors = ["Justas Dabrila <justasdabrila@gmail.com>"]
+
+[dependencies]
+rustfft = "2.0.0"
+hound = "3.4.0"
+bmp = "0.4.0"
+spmc = "0.2.2"
